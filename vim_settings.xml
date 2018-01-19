@@ -16,8 +16,14 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="96" />
       </file>
-      <file name="/a.dummy" timestamp="1516394114104">
+      <file name="/a.dummy" timestamp="1516398721370">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/res/values/dimens.xml" timestamp="1516396799488">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="38" />
+        <mark key="^" line="5" column="37" />
+        <mark key="." line="5" column="38" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/AndroidManifest.xml" timestamp="1516307953287">
         <mark key="[" line="4" column="66" />
@@ -36,11 +42,16 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/build.gradle" timestamp="1516308943384">
-        <mark key="[" line="29" column="52" />
-        <mark key="]" line="29" column="56" />
-        <mark key="^" line="29" column="56" />
-        <mark key="." line="29" column="56" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/ui/list/UserListFragment.java" timestamp="1516398839606">
+        <mark key="[" line="80" column="30" />
+        <mark key="]" line="80" column="44" />
+        <mark key="." line="80" column="44" />
+        <mark key="^" line="80" column="44" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/build.gradle" timestamp="1516398321622">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/UserRepository.java" timestamp="1516310062439">
         <mark key="[" line="7" column="3" />
@@ -60,6 +71,12 @@
         <mark key="^" line="24" column="73" />
         <mark key="." line="24" column="73" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/ui/list/UserRvAdapter.java" timestamp="1516398652201">
+        <mark key="[" line="80" column="31" />
+        <mark key="]" line="81" column="30" />
+        <mark key="." line="81" column="30" />
+        <mark key="^" line="81" column="30" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/model/user/Location.java" timestamp="1516309761983">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="98" />
@@ -78,6 +95,12 @@
         <mark key="]" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/res/layout/fragment_user.xml" timestamp="1516397527059">
+        <mark key="[" line="1" column="72" />
+        <mark key="]" line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/data/local/LocalUserSource.java" timestamp="1516317352492">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -90,10 +113,17 @@
         <mark key="." line="29" column="89" />
         <mark key="^" line="29" column="89" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/ui/MainActivity.java" timestamp="1516394364345">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/res/layout/activity_main.xml" timestamp="1516398939232">
+        <mark key="[" line="6" column="77" />
+        <mark key="]" line="6" column="77" />
+        <mark key="." line="6" column="77" />
+        <mark key="^" line="6" column="77" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/ui/MainActivity.java" timestamp="1516399171866">
+        <mark key="[" line="38" column="44" />
+        <mark key="]" line="39" column="45" />
+        <mark key="." line="39" column="45" />
+        <mark key="^" line="39" column="45" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/data/remote/pojos/User.java" timestamp="1516315418427">
         <mark key="[" line="15" column="15" />
@@ -188,7 +218,7 @@
         <mark key="^" line="3" column="51" />
         <mark key="." line="3" column="51" />
       </file>
-      <file name="/fragment.java" timestamp="1516395998543">
+      <file name="/fragment.java" timestamp="1516398152007">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="5" />
@@ -209,44 +239,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>FragmentTragetSupportFragmentManager().beginTransaction()</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVGhpcyBzZW5kcyB0aGUgdXNlcnMgb3ZlciB0byBvblBvc3RFeGVjdXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICBVc2VyRGJTZXJ2aWNlIHVzZXJEYlNlcnZpY2UgPSBVc2VyRGJTZXJ2aWNlU3FsaXRlLmdldEluc3RhbmNlKHRoaXMpOwogICAgICAgIFVzZXJOZXR3b3JrU2VydmljZSB1c2VyTmV0d29ya1NlcnZpY2UgPSBuZXcgVXNlck5ldHdvcmtTZXJ2aWNlUmV0cm9maXQoKTsKICAgICAgICBVc2VyU2VydmljZSB1c2VyU2VydmljZSA9IG5ldyBVc2VyU2VydmljZURiRmlyc3RUaGVuTmV0d29yayh1c2VyRGJTZXJ2aWNlLCB1c2VyTmV0d29ya1NlcnZpY2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiVXNlclNlcnZpY2VEYkZpcnN0VGhlbk4iOwo=</text>
+        <text encoding="base64">ICAgICAgICBVc2VyRGJTZXJ2aWNlIHVzZXJEYlNlcnZpY2UgPSBVc2VyRGJTZXJ2aWNlU3FsaXRlLmdldEluc3RhbmNlKHRoaXMpOwogICAgICAgIFVzZXJOZXR3b3JrU2VydmljZSB1c2VyTmV0d29ya1NlcnZpY2UgPSBuZXcgVXNlck5ldHdvcmtTZXJ2aWNlUmV0cm9maXQoKTsKICAgICAgICBVc2VyU2VydmljZSB1c2VyU2VydmljZSA9IG5ldyBVc2VyU2VydmljZURiRmlyc3RUaGVuTmV0d29yayh1c2VyRGJTZXJ2aWNlLCB1c2VyTmV0d29ya1NlcnZpY2UpOwoKICAgICAgICB1c2VyU2VydmljZS5nZXRVc2Vyc0FzeW5jKHRydWUsIG5ldyBVc2VyU2VydmljZS5PblVzZXJzUmVhZHlDYWxsYmFjaygpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uVXNlcnNSZWFkeShMaXN0PFVzZXI+IHVzZXJzKSB7CiAgICAgICAgICAgICAgICBmb3IgKFVzZXIgdXNlciA6IHVzZXJzKSB7CiAgICAgICAgICAgICAgICAgICAgTG9nLmQoVEFHLCBTdHJpbmcuZm9ybWF0KCIlZDogJXMgJXMiLCB1c2VyLmdldElkKCksIHVzZXIuZ2V0Rmlyc3ROYW1lKCksIHVzZXIuZ2V0TGFzdE5hbWUoKSkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>boolean forceRefresh,
-                           U</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gU2Vjb25kLCBpZiBkYXRhYmFzZSB3YXMgZW1wdHksIHRoZW4gbWFrZSBhIG5ldHdvcmsgY2FsbCB0byBnZXQgdXNlcnMgZnJvbSB0aGUgQVBJLgo=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">PC9GcmFtZUxheW91dD4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICA8VGV4dFZpZXcKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6dGV4dD0iSGVsbG8gV29ybGQhIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50TGVmdF90b0xlZnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFJpZ2h0X3RvUmlnaHRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiIC8+Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgUmVjeWNsZXJWaWV3LkFkYXB0ZXIgYWRhcHRlciA9IG5ldyBVc2VyUnZBZGFwdGVyKG5ldyBBcnJheUxpc3Q8VXNlcj4oKSwgbGlzdGVuZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRoZSBkYXRhYmFzZSBwcmltYXJ5IGtleSB2YWx1ZSwgdGhlbiByZS1wdWxsIGZyb20gZGF0YWJhc2UgYW5kIHJldHVybi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJEYlNlcnZpY2Uuc2F2ZVVzZXJzKHVzZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjeWNsZXJWaWV3LnNldEFkYXB0ZXIobmV3IFVzZXJSdkFkYXB0ZXIoRHVtbXlDb250ZW50LklURU1TLCBsaXN0ZW5lcikpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJzID0gdXNlck5ldHdvcmtTZXJ2aWNlLmdldFJhbmRvbWx5R2VuZXJhdGVkVXNlcnNGcm9tQXBpKE5VTV9VU0VSU19UT19SRVRSSUVWRSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjeWNsZXJWaWV3LnNldExheW91dE1hbmFnZXIobmV3IEdyaWRMYXlvdXRNYW5hZ2VyKHZpZXcuZ2V0Q29udGV4dCgpLCBDT0xVTU5fQ09VTlQpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
