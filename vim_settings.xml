@@ -30,11 +30,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/UserServiceDbFirstThenNetwork.java" timestamp="1516394102986">
-        <mark key="[" line="41" column="80" />
-        <mark key="]" line="43" column="28" />
-        <mark key="^" line="43" column="28" />
-        <mark key="." line="43" column="28" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/UserServiceDbFirstThenNetwork.java" timestamp="1516395226916">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="54" column="27" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/build.gradle" timestamp="1516308943384">
         <mark key="[" line="29" column="52" />
@@ -101,12 +101,12 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/db/UserDbServiceSqlite.java" timestamp="1516392014126">
-        <mark key="'" line="184" column="0" />
-        <mark key="[" line="140" column="18" />
-        <mark key="]" line="140" column="66" />
-        <mark key="^" line="140" column="66" />
-        <mark key="." line="140" column="66" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/db/UserDbServiceSqlite.java" timestamp="1516394641467">
+        <mark key="'" line="188" column="0" />
+        <mark key="[" line="141" column="30" />
+        <mark key="]" line="142" column="65" />
+        <mark key="^" line="142" column="65" />
+        <mark key="." line="142" column="65" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/data/remote/RandomUserApiService.java" timestamp="1516317535646">
         <mark key="[" line="16" column="11" />
@@ -209,43 +209,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyU2VydmljZS5nZXRVc2Vyc0FzeW5jKG5ldyBVc2VyU2VydmljZS5PblVzZXJzUmVhZHlDYWxsYmFjaygpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uVXNlcnNSZWFkeShMaXN0PFVzZXI+IHVzZXJzKSB7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>new UserDbServiceSqlite(this);</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjYWxsYmFjayAgICAgT2JqZWN0IHRoYXQgd2lsbCByZWNlaXZlIFVzZXJzIHdoZW4gdGhlIGFzeW5jaHJvbm91cyB3b3JrIGlzIGNvbXBsZXRlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVGhpcyBzZW5kcyB0aGUgdXNlcnMgb3ZlciB0byBvblBvc3RFeGVjdXRlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyU2VydmljZS5nZXRVc2Vyc0FzeW5jKG5ldyBVc2VyU2VydmljZS5PblVzZXJzUmVhZHlDYWxsYmFjaygpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uVXNlcnNSZWFkeShMaXN0PFVzZXI+IHVzZXJzKSB7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiVXNlclNlcnZpY2VEYkZpcnN0VGhlbk4iOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoVXNlciB1c2VyIDogdXNlcnMpIHsKICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsIFN0cmluZy5mb3JtYXQoIiVkOiAlcyAlcyIsIHVzZXIuZ2V0SWQoKSwgdXNlci5nZXRGaXJzdE5hbWUoKSwgdXNlci5nZXRMYXN0TmFtZSgpKSk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>boolean forceRefresh,
+                           U</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyU2VydmljZSBsb2NhbFVzZXJTb3VyY2UgPSBuZXcgVXNlckRiU2VydmljZVNxbGl0ZShVc2VyRGJTZXJ2aWNlU3FsaXRlLmdldEluc3RhbmNlKHRoaXMpKTsKICAgICAgICBVc2VyU2VydmljZSByZW1vdGVVc2VyU291cmNlID0gbmV3IFVzZXJOZXR3b3JrU2VydmljZVJldHJvZml0KCk7CiAgICAgICAgVXNlclNlcnZpY2UgdXNlclNlcnZpY2UgPSBuZXcgVXNlclNlcnZpY2VEYkZpcnN0VGhlbk5ldHdvcmsobG9jYWxVc2VyU291cmNlLCByZW1vdGVVc2VyU291cmNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gU2Vjb25kLCBpZiBkYXRhYmFzZSB3YXMgZW1wdHksIHRoZW4gbWFrZSBhIG5ldHdvcmsgY2FsbCB0byBnZXQgdXNlcnMgZnJvbSB0aGUgQVBJLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2FkU2luZ2xlVXNlckFzeW5jVGFzayBhc3luY1Rhc2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRoZSBkYXRhYmFzZSBwcmltYXJ5IGtleSB2YWx1ZSwgdGhlbiByZS1wdWxsIGZyb20gZGF0YWJhc2UgYW5kIHJldHVybi4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHVzZXJJZCA9IGludGVnZXJzWzBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJEYlNlcnZpY2Uuc2F2ZVVzZXJzKHVzZXJzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25Qb3N0RXhlY3V0ZSh1c2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJzID0gdXNlck5ldHdvcmtTZXJ2aWNlLmdldFJhbmRvbWx5R2VuZXJhdGVkVXNlcnNGcm9tQXBpKE5VTV9VU0VSU19UT19SRVRSSUVWRSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

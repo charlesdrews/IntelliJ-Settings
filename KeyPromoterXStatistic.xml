@@ -41,12 +41,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'⌘F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
       <Statistic Action="Run 'app'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'app'">
@@ -54,15 +64,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'app'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Toggle Line Breakpoint">
-        <Item>
-          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
-          <ShortCut>'⌘F8'</ShortCut>
-          <Description>Toggle Line Breakpoint</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
