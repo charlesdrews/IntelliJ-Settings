@@ -22,7 +22,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">

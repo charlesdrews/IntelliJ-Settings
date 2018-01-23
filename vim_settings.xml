@@ -37,11 +37,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/res/layout/fragment_user_list.xml" timestamp="1516722933346">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-        <mark key="^" line="4" column="20" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/res/layout/fragment_user_list.xml" timestamp="1516724099602">
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="9" column="6" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/UserServiceDbFirstThenNetwork.java" timestamp="1516395226916">
         <mark key="[" line="21" column="0" />
@@ -49,11 +49,16 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/ui/list/UserListFragment.java" timestamp="1516723391207">
-        <mark key="[" line="71" column="12" />
-        <mark key="]" line="71" column="12" />
-        <mark key="." line="71" column="12" />
-        <mark key="^" line="71" column="18" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/res/layout/user_list_entry.xml" timestamp="1516724262587">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/ui/list/UserListFragment.java" timestamp="1516725822415">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="75" column="102" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/build.gradle" timestamp="1516398321622">
         <mark key="[" line="29" column="0" />
@@ -78,11 +83,11 @@
         <mark key="^" line="24" column="73" />
         <mark key="." line="24" column="73" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/ui/list/UserRvAdapter.java" timestamp="1516722738140">
-        <mark key="[" line="68" column="8" />
-        <mark key="]" line="68" column="8" />
-        <mark key="." line="68" column="8" />
-        <mark key="^" line="68" column="12" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/ui/list/UserRvAdapter.java" timestamp="1516724508567">
+        <mark key="[" line="46" column="49" />
+        <mark key="]" line="46" column="50" />
+        <mark key="." line="46" column="50" />
+        <mark key="^" line="46" column="49" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/model/user/Location.java" timestamp="1516309761983">
         <mark key="[" line="3" column="0" />
@@ -96,6 +101,18 @@
         <mark key="]" line="28" column="0" />
         <mark key="^" line="41" column="74" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/ui/detail/UserDetailFragment.java" timestamp="1516726450677">
+        <mark key="[" line="83" column="77" />
+        <mark key="]" line="84" column="15" />
+        <mark key="." line="84" column="15" />
+        <mark key="^" line="84" column="15" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/res/values/strings.xml" timestamp="1516724765571">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="50" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/UserProvider.java" timestamp="1516383769812">
         <mark key="[" line="16" column="23" />
@@ -126,11 +143,11 @@
         <mark key="." line="6" column="77" />
         <mark key="^" line="6" column="77" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/ui/MainActivity.java" timestamp="1516399171866">
-        <mark key="[" line="29" column="44" />
-        <mark key="]" line="30" column="45" />
-        <mark key="." line="30" column="45" />
-        <mark key="^" line="30" column="45" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/ui/MainActivity.java" timestamp="1516726526577">
+        <mark key="[" line="30" column="84" />
+        <mark key="]" line="30" column="89" />
+        <mark key="^" line="30" column="89" />
+        <mark key="." line="30" column="89" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/data/remote/pojos/User.java" timestamp="1516315418427">
         <mark key="[" line="15" column="15" />
@@ -169,12 +186,18 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/model/User.java" timestamp="1516382298863">
+      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/model/User.java" timestamp="1516724611771">
         <mark key="'" line="137" column="44" />
-        <mark key="[" line="162" column="8" />
-        <mark key="]" line="112" column="14" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="33" column="50" />
         <mark key="." line="162" column="14" />
         <mark key="^" line="112" column="14" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/res/layout/fragment_user_detail.xml" timestamp="1516725478794">
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+        <mark key="^" line="5" column="38" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/data/remote/RemoteUserSource.java" timestamp="1516377055947">
         <mark key="'" line="46" column="11" />
@@ -249,43 +272,44 @@
       <jump line="126" column="0" filename="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/db/UserDbServiceSqlite.java" />
       <jump line="183" column="0" filename="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/db/UserDbServiceSqlite.java" />
       <jump line="93" column="0" filename="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/network/UserNetworkServiceRetrofit.java" />
+      <jump line="11" column="3" filename="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/res/layout/fragment_user_list.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VXNlclJ2QWRhcHRlciA=</text>
+        <text>UserListFragment</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VXNlclJ2QWRhcHRlciA=</text>
+        <text>UserListFragment</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyRGJTZXJ2aWNlIHVzZXJEYlNlcnZpY2UgPSBVc2VyRGJTZXJ2aWNlU3FsaXRlLmdldEluc3RhbmNlKHRoaXMpOwogICAgICAgIFVzZXJOZXR3b3JrU2VydmljZSB1c2VyTmV0d29ya1NlcnZpY2UgPSBuZXcgVXNlck5ldHdvcmtTZXJ2aWNlUmV0cm9maXQoKTsKICAgICAgICBVc2VyU2VydmljZSB1c2VyU2VydmljZSA9IG5ldyBVc2VyU2VydmljZURiRmlyc3RUaGVuTmV0d29yayh1c2VyRGJTZXJ2aWNlLCB1c2VyTmV0d29ya1NlcnZpY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBGcmFnbWVudFRyYW5zYWN0aW9uIHRyYW5zYWN0aW9uID0gZ2V0U3VwcG9ydEZyYWdtZW50TWFuYWdlcigpLmJlZ2luVHJhbnNhY3Rpb24oKTsKICAgICAgICB0cmFuc2FjdGlvbi5hZGQoUi5pZC5mcmFnbWVudF9jb250YWluZXIsIFVzZXJMaXN0RnJhZ21lbnQubmV3SW5zdGFuY2UoKSwgImxpc3QiKTsKICAgICAgICB0cmFuc2FjdGlvbi5jb21taXQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJvblVzZXJTZWxlY3RlZDogIiArIHVzZXJJZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVjeWNsZXJWaWV3LnNldEhhc0ZpeGVkU2l6ZShmYWxzZSk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAvL2VtYWlsLGNlbGwsIGFkZHJlc3MsIGRvYgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVjeWNsZXJWaWV3LnNldExheW91dE1hbmFnZXIobmV3IExpbmVhckxheW91dE1hbmFnZXIocmVjeWNsZXJWaWV3LmdldENvbnRleHQoKSwgTGluZWFyTGF5b3V0TWFuYWdlci5WRVJUSUNBTCwgZmFsc2UpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGd0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICB2b2lkIHVwZGF0ZVVzZXJzKExpc3Q8VXNlcj4gbmV3VXNlcnMpIHsKICAgICAgICB1c2Vycy5jbGVhcigpOwogICAgICAgIHVzZXJzLmFkZEFsbChuZXdVc2Vycyk7CiAgICAgICAgbm90aWZ5RGF0YVNldENoYW5nZWQoKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZnlEYXRhU2V0Q2hhbmdlZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">dGhlIGFkdmFuY2VkIGNvbmNlcHQgb2YgRGVwZW5kZW5jeQogICAgICAgICAgICAvLyBJbmplY3Rpb24gdG8gYWRkIHRoZXNlIHRocmVlIGRlcGVuZGVuY2llcywg</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -299,7 +323,7 @@
       <last-pattern>COL_NAME</last-pattern>
       <last-replace>UserDbContract\.UserTable\.COL_NAME</last-replace>
       <last-substitute>COL_NAME</last-substitute>
-      <last-dir>0</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
