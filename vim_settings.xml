@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1516745122507">
+      <file name="/a.dummy" timestamp="1516748239158">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/services/db/UserDbServiceSqlite.java" timestamp="1516744169115">
@@ -185,12 +185,12 @@
         <mark key="." line="87" column="30" />
         <mark key="^" line="87" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/res/values/strings.xml" timestamp="1516747352346">
+      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/res/values/strings.xml" timestamp="1516748307931">
         <mark key="c" line="4" column="21" />
-        <mark key="[" line="4" column="66" />
-        <mark key="]" line="5" column="79" />
-        <mark key="^" line="5" column="79" />
-        <mark key="." line="5" column="79" />
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="38" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/res/drawable/ic_refresh_black_24dp.xml" timestamp="1516734566075">
         <mark key="[" line="6" column="36" />
@@ -329,11 +329,11 @@
       <jump line="170" column="0" filename="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/ui/list/UserListFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">VW5pdCA1IE1pZC1Vbml0IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50IA==</text>
+        <text encoding="base64">VW5pdCA1IE1pZC1Vbml0IA==</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
@@ -369,7 +369,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -389,8 +389,8 @@
         <entry encoding="base64">JzwsJz5zL0NPTF9OQU1FL1VzZXJEYkNvbnRyYWN0XC5Vc2VyVGFibGVcLkNPTF9OQU1FL2c=</entry>
         <entry>q</entry>
         <entry>ww</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
