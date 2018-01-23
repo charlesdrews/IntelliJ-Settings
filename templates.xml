@@ -1,0 +1,12 @@
+<application>
+  <component name="TemplateSettings">
+    <option name="deletedKeys">
+      <list>
+        <TemplateKey>
+          <option name="groupName" value="plain" />
+          <option name="key" value="prsf" />
+        </TemplateKey>
+      </list>
+    </option>
+  </component>
+</application>
