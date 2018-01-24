@@ -25,14 +25,6 @@
           <Count>7</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Project">
-        <Item>
-          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
-          <ShortCut>'⌘1'</ShortCut>
-          <Description>Project</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
@@ -51,6 +43,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Captures">
+        <Item>
+          <IdeaActionID>ActivateCapturesToolWindow</IdeaActionID>
+          <Description>Captures</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'app'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -65,6 +63,14 @@
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'⌘1'</ShortCut>
+          <Description>Project</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
