@@ -125,6 +125,7 @@
         <mark key="^" line="179" column="12" />
         <mark key="." line="179" column="12" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/mid-unit-5-practical-assessment/app/src/main/java/nyc/c4q/mid_unit_5_practical_assessment/services/network/RandomUserApiService.java" timestamp="1516822445653" />
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/db/UserDbHelper.java" timestamp="1516387476762">
         <mark key="'" line="106" column="17" />
         <mark key="[" line="25" column="4" />
@@ -148,6 +149,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/mid-unit-5-practical-assessment/app/src/main/java/nyc/c4q/mid_unit_5_practical_assessment/services/network/UserNetworkServiceRetrofit.java" timestamp="1516822428383" />
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/ui/list/UserListFragment.java" timestamp="1516748038982">
         <mark key="'" line="197" column="0" />
         <mark key="[" line="168" column="9" />
