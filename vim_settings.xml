@@ -133,6 +133,12 @@
         <mark key="^" line="179" column="12" />
         <mark key="." line="179" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/model/LineStatus.java" timestamp="1517250039376">
+        <mark key="[" line="3" column="90" />
+        <mark key="]" line="4" column="2" />
+        <mark key="^" line="4" column="2" />
+        <mark key="." line="4" column="2" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/db/UserDbHelper.java" timestamp="1516387476762">
         <mark key="'" line="106" column="17" />
         <mark key="[" line="25" column="4" />
@@ -332,7 +338,7 @@
         <mark key="^" line="3" column="51" />
         <mark key="." line="3" column="51" />
       </file>
-      <file name="/fragment.java" timestamp="1517244389133">
+      <file name="/fragment.java" timestamp="1517249747005">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="5" />
@@ -355,11 +361,11 @@
       <jump line="170" column="0" filename="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/ui/list/UserListFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
@@ -368,31 +374,31 @@
         <text>hello from thread &quot; + Thread.currentThread().getId());</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZS5qb2JGaW5pc2hlZChwYXJhbWV0ZXJzLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXJ2aWNlID0gc2VydmljZTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wYXJhbWV0ZXJzID0gcGFyYW1ldGVyczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZS5qb2JGaW5pc2hlZChwYXJhbWV0ZXJzLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIEpvYlBhcmFtZXRlcnMgcGFyYW1ldGVyczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXJ2aWNlID0gc2VydmljZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzID0gam9iUGFyYW1ldGVyczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wYXJhbWV0ZXJzID0gcGFyYW1ldGVyczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSm9iUGFyYW1ldGVycyBwYXJhbWV0ZXJzOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIEpvYlBhcmFtZXRlcnMgcGFyYW1ldGVyczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzYW1wbGVBc3luY1Rhc2suCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzID0gam9iUGFyYW1ldGVyczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgU2FtcGxlQXN5bmNUYXNrKCkuZXhlY3V0ZSgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSm9iUGFyYW1ldGVycyBwYXJhbWV0ZXJzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJvblN0YXJ0Sm9iOiBoZWxsbyBmcm9tIHRocmVhZCAiICsgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzYW1wbGVBc3luY1Rhc2suCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
