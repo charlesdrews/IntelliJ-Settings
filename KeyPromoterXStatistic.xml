@@ -17,14 +17,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Logcat">
-        <Item>
-          <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
-          <ShortCut>'⌘6'</ShortCut>
-          <Description>Logcat</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
@@ -63,6 +55,14 @@
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Logcat">
+        <Item>
+          <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
+          <ShortCut>'⌘6'</ShortCut>
+          <Description>Logcat</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
