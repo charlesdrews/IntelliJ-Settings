@@ -81,6 +81,12 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Package">
+        <Item>
+          <IdeaActionID>NewDir</IdeaActionID>
+          <Description>Package</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
