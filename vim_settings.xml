@@ -115,6 +115,17 @@
         <mark key="^" line="5" column="65" />
         <mark key="." line="5" column="65" />
       </file>
+      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/SubwayStatusNetworkService.java" timestamp="1517250991796">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="4" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="15" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/SbwyStatusNtwkSveOkHttp.java" timestamp="1517251523079">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/db/UserDbService.java" timestamp="1516391945173">
         <mark key="[" line="52" column="49" />
         <mark key="]" line="52" column="47" />
@@ -338,11 +349,17 @@
         <mark key="^" line="3" column="51" />
         <mark key="." line="3" column="51" />
       </file>
-      <file name="/fragment.java" timestamp="1517249747005">
+      <file name="/fragment.java" timestamp="1517250897195">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/build.gradle" timestamp="1517251061621">
+        <mark key="[" line="26" column="85" />
+        <mark key="]" line="27" column="52" />
+        <mark key="^" line="27" column="52" />
+        <mark key="." line="27" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -362,10 +379,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChOdWxsUG9pbnRlckV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIExvZy5lKFRBRywgImdldExpbmVTdGF0dXNlczogTmV0d29yayByZXNwb25zZSBsYWNrcyBhIGJvZHkiLCBlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text>No</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
@@ -374,31 +391,31 @@
         <text>hello from thread &quot; + Thread.currentThread().getId());</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChOdWxsUG9pbnRlckV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIExvZy5lKFRBRywgImdldExpbmVTdGF0dXNlczogTmV0d29yayByZXNwb25zZSBsYWNrcyBhIGJvZHkiLCBlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2F0Y2gK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZS5qb2JGaW5pc2hlZChwYXJhbWV0ZXJzLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXNwb25zZSByZXNwb25zZSA9IG51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXJ2aWNlID0gc2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAocmVzcG9uc2UgIT0gbnVsbCkgewogICAgICAgICAgICByZXNwb25zZS5ib2R5KCkuc3RyaW5nKCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wYXJhbWV0ZXJzID0gcGFyYW1ldGVyczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAiZ2V0TGluZVN0YXR1c2VzOiAiICsgcmVzcG9uc2UuYm9keSgpLnN0cmluZygpLnN1YnN0cmluZygwLCAxMDApKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIEpvYlBhcmFtZXRlcnMgcGFyYW1ldGVyczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzID0gam9iUGFyYW1ldGVyczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSm9iUGFyYW1ldGVycyBwYXJhbWV0ZXJzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzYW1wbGVBc3luY1Rhc2suCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
