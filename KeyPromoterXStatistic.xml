@@ -43,6 +43,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Android Profiler">
+        <Item>
+          <IdeaActionID>ActivateAndroidProfilerToolWindow</IdeaActionID>
+          <Description>Android Profiler</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Captures">
         <Item>
           <IdeaActionID>ActivateCapturesToolWindow</IdeaActionID>
