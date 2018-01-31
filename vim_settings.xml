@@ -60,11 +60,11 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/network/SimpleMtaStatusNetworkSvc.java" timestamp="1517426433573">
-        <mark key="[" line="45" column="19" />
-        <mark key="]" line="45" column="27" />
-        <mark key="^" line="45" column="27" />
-        <mark key="." line="45" column="27" />
+      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/network/SimpleMtaStatusNetworkSvc.java" timestamp="1517427725725">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="58" column="81" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/model/UserConverter.java" timestamp="1516316828760">
         <mark key="[" line="5" column="70" />
@@ -276,12 +276,12 @@
         <mark key="^" line="55" column="15" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/network/MtaStatusXmlParser.java" timestamp="1517426588313">
+      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/network/MtaStatusXmlParser.java" timestamp="1517429114261">
         <mark key="'" line="87" column="30" />
-        <mark key="[" line="74" column="27" />
-        <mark key="]" line="75" column="28" />
-        <mark key="." line="75" column="28" />
-        <mark key="^" line="75" column="28" />
+        <mark key="[" line="157" column="35" />
+        <mark key="]" line="157" column="59" />
+        <mark key="." line="157" column="59" />
+        <mark key="^" line="157" column="59" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/model/remote/pojo/User.java" timestamp="1516315169474">
         <mark key="[" line="0" column="48" />
@@ -333,43 +333,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlbXBOYW1lID0gdGVtcFN0YXR1cyA9IHRlbXBUZXh0ID0gdGVtcERhdGUgPSB0ZW1wVGltZSA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>parse</text>
+        <text>eventType</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEdldCBkYXRlL3RpbWUgYXMgYSBsb25nIChtaWxsaXNlY29uZHMgc2luY2UgdGhlIFVuaXggZXBvY2g6IGh0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL1VuaXhfdGltZSkK</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHBhcnNlci5nZXROYW1lKCkudHJpbSgpLnRvTG93ZXJDYXNlKCkpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlbXBOYW1lID0gdGVtcFN0YXR1cyA9IHRlbXBUZXh0ID0gdGVtcERhdGUgPSB0ZW1wVGltZSA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgcmVzZXRUZW1wVmFyaWFibGVzKCkgewogICAgICAgIHRlbXBOYW1lID0gdGVtcFN0YXR1cyA9IHRlbXBUZXh0ID0gdGVtcERhdGUgPSB0ZW1wVGltZSA9IG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJzZXIubmV4dCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVXNlIAogICAgICogQHBhcmFtIGRhdGVUaW1lU3RyaW5nCiAgICAgKiBAcmV0dXJuCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBpZiBldmVudFR5cGUgU1RBUlRfRE9DVU1FTlQgb3IgVEVYVCwganVzdCBtb3ZlIG9uIHRvIG5leHQgZXZlbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gLTE7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgLy8gVGVsbHMgdXMgd2hpY2ggdHlwZSBvZiBYTUwgcGllY2Ugd2UncmUgbG9va2luZyBhdAogICAgICAgIGludCBldmVudFRwZSA9IHBhcnNlci5nZXRFdmVudFR5cGUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0ZVRpbWUgPSB0ZW1wRGF0ZSArICIgIiArIHRlbXBUaW1lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUZWxscyB1cyB3aGljaCB0eXBlIG9mIFhNTCBwaWVjZSB3ZSdyZSBsb29raW5nIGF0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUaGlzIG1ldGhvZCB3aWxsIGFkZCBMaW5lU3RhdHVzIG9iamVjdHMgdG8gbGluZVN0YXR1c2VzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlRm9ybWF0LnBhcnNlKGRhdGVUaW1lU3RyaW5nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJzZUVuZFRhZygpOwogICAgICAgICAgICAgICAgICAgIC8vIFRoaXMgbWV0aG9kIHdpbGwgYWRkIExpbmVTdGF0dXMgb2JqZWN0cyB0byBsaW5lU3RhdHVzZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0ZVRpbWUgPSB0aW1lU3RhbXA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
