@@ -276,11 +276,12 @@
         <mark key="^" line="55" column="15" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/network/MtaStatusXmlParser.java" timestamp="1517347297392">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="75" column="33" />
-        <mark key="." line="28" column="40" />
-        <mark key="^" line="28" column="40" />
+      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/network/MtaStatusXmlParser.java" timestamp="1517349595698">
+        <mark key="'" line="54" column="30" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="89" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="30" column="99" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/model/remote/pojo/User.java" timestamp="1516315169474">
         <mark key="[" line="0" column="48" />
@@ -328,46 +329,47 @@
       <jump line="73" column="23" filename="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/services/network/UserNetworkServiceRetrofit.java" />
       <jump line="170" column="0" filename="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/ui/list/UserListFragment.java" />
       <jump line="46" column="10" filename="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/network/MtaStatusXmlParser.java" />
+      <jump line="41" column="30" filename="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/network/MtaStatusXmlParser.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTZXQgdXAgdGhlIHBhcnNlciwgd2hpY2ggd2lsbCBzcGxpdCB0aGUgWE1MIGludG8gcGllY2VzIGZvciB1cwogICAgICAgIFhtbFB1bGxQYXJzZXIgcGFyc2VyID0gWG1sUHVsbFBhcnNlckZhY3RvcnkubmV3SW5zdGFuY2UoKS5uZXdQdWxsUGFyc2VyKCk7CiAgICAgICAgcGFyc2VyLnNldElucHV0KGluLCBudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRhZ05hbWUgPSBwYXJzZXIuZ2V0TmFtZSgpOyAvLyAibGluZSIsICJzdGF0dXMiLCBldGMuIG9yIHBvc3NpYmx5IE5VTEwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>InputStream xmlInputStream</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTZXQgdXAgdGhlIHBhcnNlciwgd2hpY2ggd2lsbCBzcGxpdCB0aGUgWE1MIGludG8gcGllY2VzIGZvciB1cwogICAgICAgIFhtbFB1bGxQYXJzZXIgcGFyc2VyID0gWG1sUHVsbFBhcnNlckZhY3RvcnkubmV3SW5zdGFuY2UoKS5uZXdQdWxsUGFyc2VyKCk7CiAgICAgICAgcGFyc2VyLnNldElucHV0KGluLCBudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRhZ05hbWUgPSBwYXJzZXIuZ2V0TmFtZSgpOyAvLyAibGluZSIsICJzdGF0dXMiLCBldGMuIG9yIHBvc3NpYmx5IE5VTEwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxMaW5lU3RhdHVzPiBsaW5lU3RhdHVzZXM7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRlbXBvcmFyeSB2YXJpYWJsZXMgZnJvbSB3aGljaCB3ZSdsbCBjb25zdHJ1Y3QgYSBuZXcgTGluZVN0YXR1cyBvYmplY3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnhtbElucHV0U3RyZWFtID0geG1sSW5wdXRTdHJlYW07Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxMaW5lU3RhdHVzPiBsaW5lU3RhdHVzZXM7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW5wdXRTdHJlYW0geG1sSW5wdXRTdHJlYW07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">OwoKICAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsaW5lU3RhdHVzZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxMaW5lU3RhdHVzPiBsaW5lU3RhdHVzZXM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIDxwPgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnhtbElucHV0U3RyZWFtID0geG1sSW5wdXRTdHJlYW07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wTmFtZQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSW5wdXRTdHJlYW0geG1sSW5wdXRTdHJlYW07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
