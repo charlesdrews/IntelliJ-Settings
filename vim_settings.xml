@@ -47,11 +47,12 @@
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/android/MtaAlertJobService.java" timestamp="1517501800370">
-        <mark key="[" line="45" column="61" />
-        <mark key="]" line="46" column="27" />
-        <mark key="^" line="46" column="27" />
-        <mark key="." line="46" column="27" />
+      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/android/MtaAlertJobService.java" timestamp="1517509615363">
+        <mark key="'" line="71" column="71" />
+        <mark key="[" line="99" column="25" />
+        <mark key="]" line="101" column="51" />
+        <mark key="." line="101" column="51" />
+        <mark key="^" line="101" column="51" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/UserServiceDbFirstThenNetwork.java" timestamp="1516395226916">
         <mark key="[" line="21" column="0" />
@@ -375,13 +376,14 @@
       <jump line="170" column="0" filename="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/ui/list/UserListFragment.java" />
       <jump line="46" column="10" filename="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/network/MtaStatusXmlParser.java" />
       <jump line="41" column="30" filename="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/network/MtaStatusXmlParser.java" />
+      <jump line="65" column="71" filename="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/android/MtaAlertJobService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;Time not available&quot;</text>
+        <text>new NotificationCompat.InboxStyle()</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;Time not available&quot;</text>
+        <text>new NotificationCompat.InboxStyle()</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
@@ -390,31 +392,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiaGVsbG8gZnJvbSB0aHJlYWQgIiArIFRocmVhZC5jdXJyZW50VGhyZWFkKCkuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNaW5pbXVtTGF0ZW5jeSgzMDAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgVEFHID0gIk1haW5BY3Rpdml0eSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTm90aWZpY2F0aW9uQ2hhbm5lbCBub3RpZmljYXRpb25DaGFubmVsID0gbmV3IE5vdGlmaWNhdGlvbkNoYW5uZWwoCiAgICAgICAgICAgICAgICAgICAgTk9USUZJQ0FUSU9OX0NIQU5ORUwsIE5PVElGSUNBVElPTl9DSEFOTkVMLAogICAgICAgICAgICAgICAgICAgIE5vdGlmaWNhdGlvbk1hbmFnZXIuSU1QT1JUQU5DRV9ERUZBVUxUKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb24gbm90aWZpY2F0aW9uID0gbmV3IE5vdGlmaWNhdGlvbi5CdWlsZGVyKHRoaXMsIE5PVElGSUNBVElPTl9DSEFOTkVMKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBKb2JTY2hlZHVsZXIgam9iU2NoZWR1bGVyID0gKEpvYlNjaGVkdWxlcikgZ2V0U3lzdGVtU2VydmljZShDb250ZXh0LkpPQl9TQ0hFRFVMRVJfU0VSVklDRSk7CiAgICAgICAgSm9iSW5mbyBqb2JJbmZvID0gbmV3IEpvYkluZm8uQnVpbGRlcihTQU1QTEVfSk9CX0lELAogICAgICAgICAgICAgICAgbmV3IENvbXBvbmVudE5hbWUodGhpcywgTXRhQWxlcnRKb2JTZXJ2aWNlLmNsYXNzKSkKICAgICAgICAgICAgICAgIC5zZXRNaW5pbXVtTGF0ZW5jeSgzMDAwKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7CiAgICAgICAgaWYgKGpvYlNjaGVkdWxlciAhPSBudWxsKSB7CiAgICAgICAgICAgIGpvYlNjaGVkdWxlci5zY2hlZHVsZShqb2JJbmZvKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNaW5pbXVtTGF0ZW5jeSgzMDAwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgVEFHID0gIk1haW5BY3Rpdml0eSI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAiZG9JbkJhY2tncm91bmQ6IGhlbGxvIGZyb20gdGhyZWFkICIgKyBUaHJlYWQuY3VycmVudFRocmVhZCgpLmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
