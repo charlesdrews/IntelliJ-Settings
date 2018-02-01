@@ -8,7 +8,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1517501416130">
+      <file name="/a.dummy" timestamp="1517514282904">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/SampleJobService.java" timestamp="1517439783375">
@@ -84,6 +84,12 @@
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="68" />
       </file>
+      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/android/MtaStatusRvAdapter.java" timestamp="1517514488925">
+        <mark key="[" line="43" column="16" />
+        <mark key="]" line="43" column="33" />
+        <mark key="^" line="43" column="33" />
+        <mark key="." line="43" column="33" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/data/local/LocalUserSource.java" timestamp="1516317352492">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -107,6 +113,12 @@
         <mark key="]" line="27" column="22" />
         <mark key="^" line="27" column="22" />
         <mark key="." line="27" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/android/MtaStatusRecyclerView.java" timestamp="1517514278412">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="23" />
+        <mark key="^" line="9" column="23" />
+        <mark key="." line="9" column="23" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/res/layout/fragment_user_detail.xml" timestamp="1516743504724">
         <mark key="[" line="3" column="40" />
@@ -259,7 +271,7 @@
         <mark key="^" line="47" column="82" />
         <mark key="." line="47" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516732844240">
+      <file name="/Dummy.txt" timestamp="1517514714713">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/network/MtaServiceStatusXmlParser.java" timestamp="1517266853317">
@@ -347,16 +359,17 @@
         <mark key="^" line="3" column="51" />
         <mark key="." line="3" column="51" />
       </file>
-      <file name="/fragment.java" timestamp="1517514045763">
+      <file name="/fragment.java" timestamp="1517514199464">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/build.gradle" timestamp="1517514092640">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/build.gradle" timestamp="1517514133965">
+        <mark key="[" line="27" column="54" />
+        <mark key="]" line="28" column="61" />
+        <mark key="." line="28" column="61" />
+        <mark key="^" line="28" column="61" />
       </file>
     </filemarks>
     <jumps>
@@ -378,11 +391,11 @@
       <jump line="65" column="71" filename="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/android/MtaAlertJobService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbS5hbmRyb2lkLnN1cHBvcnQ6cmVjeWNsZXIK</text>
+      <register name="&quot;" type="4">
+        <text>lineStatuses;</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>lineStatuses;</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
@@ -391,31 +404,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBKT0JfSU5URVJWQUwgPSAzMCAqIDYwICogMTAwMDsgLy8gMzAgbWludXRlcyBpbiBtaWxsaXNlY29uZHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbS5hbmRyb2lkLnN1cHBvcnQ6cmVjeWNsZXIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRSZXF1aXJlZE5ldHdvcmtUeXBlKEpvYkluZm8uTkVUV09SS19UWVBFX0FOWSkK</text>
+        <text encoding="base64">ICAgIGNvbS5hbmRyb2lkLnN1cHBvcnQ6cmVjeWNsZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRSZXF1aXJlZE5ldHdvcmtUeXBlKEpvYkluZm8uTkVUV09SS19UWVBFX0FOWSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRQZXJpb2RpYyhKT0JfSU5URVJWQUwsIEpPQl9JTlRFUlZBTCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRQZXJpb2RpYyhKT0JfSU5URVJWQUwsIEpPQl9JTlRFUlZBTCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYW5hZ2VyLmNsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmEK</text>
+        <text encoding="base64">ICAgICAgICBtYW5hZ2VyLmNsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
