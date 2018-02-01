@@ -47,12 +47,12 @@
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/android/MtaAlertJobService.java" timestamp="1517511730833">
+      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/android/MtaAlertJobService.java" timestamp="1517515302485">
         <mark key="'" line="73" column="71" />
-        <mark key="[" line="60" column="55" />
-        <mark key="]" line="60" column="58" />
-        <mark key="." line="60" column="58" />
-        <mark key="^" line="60" column="58" />
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="9" />
+        <mark key="." line="38" column="9" />
+        <mark key="^" line="38" column="9" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/UserServiceDbFirstThenNetwork.java" timestamp="1516395226916">
         <mark key="[" line="21" column="0" />
@@ -84,11 +84,17 @@
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/android/MtaStatusRvAdapter.java" timestamp="1517514488925">
-        <mark key="[" line="43" column="16" />
-        <mark key="]" line="43" column="33" />
-        <mark key="^" line="43" column="33" />
-        <mark key="." line="43" column="33" />
+      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/res/layout/mta_status_rv_entry.xml" timestamp="1517516516311">
+        <mark key="[" line="20" column="44" />
+        <mark key="]" line="21" column="29" />
+        <mark key="." line="21" column="29" />
+        <mark key="^" line="21" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/android/MtaStatusRvAdapter.java" timestamp="1517515327642">
+        <mark key="[" line="45" column="54" />
+        <mark key="]" line="46" column="97" />
+        <mark key="^" line="46" column="97" />
+        <mark key="." line="46" column="97" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/data/local/LocalUserSource.java" timestamp="1516317352492">
         <mark key="[" line="6" column="0" />
@@ -168,6 +174,12 @@
         <mark key="." line="52" column="47" />
         <mark key="^" line="52" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/res/layout/activity_main.xml" timestamp="1517515811069">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="9" column="46" />
+        <mark key="." line="9" column="46" />
+        <mark key="^" line="9" column="46" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/data/remote/pojos/Result.java" timestamp="1516318016404">
         <mark key="[" line="5" column="71" />
         <mark key="]" line="5" column="70" />
@@ -195,6 +207,12 @@
       <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/network/MtaStatusNetworkSvc.java" timestamp="1517450054529">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="9" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/res/values/dimen.xml" timestamp="1517515774778">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+        <mark key="." line="2" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/UserRepository.java" timestamp="1516310062439">
         <mark key="[" line="7" column="3" />
@@ -271,7 +289,7 @@
         <mark key="^" line="47" column="82" />
         <mark key="." line="47" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517514714713">
+      <file name="/Dummy.txt" timestamp="1517516639190">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/network/MtaServiceStatusXmlParser.java" timestamp="1517266853317">
@@ -286,11 +304,11 @@
         <mark key="." line="34" column="15" />
         <mark key="^" line="34" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/android/MainActivity.java" timestamp="1517513354472">
-        <mark key="[" line="42" column="48" />
-        <mark key="]" line="43" column="52" />
-        <mark key="." line="43" column="52" />
-        <mark key="^" line="43" column="52" />
+      <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/android/MainActivity.java" timestamp="1517515621508">
+        <mark key="[" line="81" column="75" />
+        <mark key="]" line="82" column="57" />
+        <mark key="." line="82" column="57" />
+        <mark key="^" line="82" column="57" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/data/remote/RandomUserApiService.java" timestamp="1516317535646">
         <mark key="[" line="16" column="11" />
@@ -391,11 +409,11 @@
       <jump line="65" column="71" filename="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/android/MtaAlertJobService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>lineStatuses;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRBbGlnbm1lbnQ9IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>lineStatuses;</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
@@ -404,31 +422,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBKT0JfSU5URVJWQUwgPSAzMCAqIDYwICogMTAwMDsgLy8gMzAgbWludXRlcyBpbiBtaWxsaXNlY29uZHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRBbGlnbm1lbnQ9IiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbS5hbmRyb2lkLnN1cHBvcnQ6cmVjeWNsZXIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmdyYXZpdHk9InN0YXJ0Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRSZXF1aXJlZE5ldHdvcmtUeXBlKEpvYkluZm8uTkVUV09SS19UWVBFX0FOWSkK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9TdGFydE9mPSJAK2lkL3J2X2VudHJ5X3RpbWUiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRwCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRBbGlnbm1lbnQ9InRleHRTdGFydCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRQZXJpb2RpYyhKT0JfSU5URVJWQUwsIEpPQl9JTlRFUlZBTCkK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b0VuZE9mPSJwYXJlbnQiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbj0iQGFuZHJvaWQ6Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYW5hZ2VyLmNsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
