@@ -125,11 +125,11 @@
         <mark key="." line="90" column="79" />
         <mark key="^" line="90" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/hackathon/repos/worfkorce1/app/src/main/java/nyc/c4q/workforce1/MapFragment.java" timestamp="1520293286608">
-        <mark key="[" line="110" column="79" />
-        <mark key="]" line="110" column="100" />
-        <mark key="." line="110" column="100" />
-        <mark key="^" line="110" column="100" />
+      <file name="$USER_HOME$/Documents/hackathon/repos/worfkorce1/app/src/main/java/nyc/c4q/workforce1/MapFragment.java" timestamp="1520294030519">
+        <mark key="[" line="89" column="173" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="89" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/services/UserService.java" timestamp="1516745835663">
         <mark key="[" line="26" column="81" />
@@ -449,16 +449,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>R.mipmap.center_icon</text>
+        <text>mipmap</text>
       </register>
       <register name="-" type="4">
-        <text>R.mipmap.center_icon</text>
+        <text>mipmap</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmljb24oQml0bWFwRGVzY3JpcHRvckZhY3RvcnkuZnJvbVJlc291cmNlKFIubWlwbWFwLmNlbnRlcl9pY29uKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnb29nbGVNYXAuYWRkTWFya2VyKG5ldyBNYXJrZXJPcHRpb25zKCkucG9zaXRpb24obmV3IExhdExuZyhsYXQsIGxuZykpLnRpdGxlKCJDdXJyZW50IExvY2F0aW9uIikuaWNvbihCaXRtYXBEZXNjcmlwdG9yRmFjdG9yeS5mcm9tUmVzb3VyY2UoUi5taXBtYXAuY3VycmVudCkpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmljb24oQml0bWFwRGVzY3JpcHRvckZhY3RvcnkuZnJvbUJpdG1hcChpY29uKSkpOwo=</text>
