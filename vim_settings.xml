@@ -137,6 +137,11 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/lessons/separation-of-concerns/app/src/main/java/nyc/c4q/doggos/ui/breeds_list/BreedsActivity.java" timestamp="1526065813408">
+        <mark key="]" line="40" column="7" />
+        <mark key="^" line="40" column="7" />
+        <mark key="." line="40" column="7" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/model/user/Location.java" timestamp="1516309761983">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="98" />
@@ -310,10 +315,6 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/lessons/separation-of-concerns/app/src/main/java/nyc/c4q/doggos/breeds_list/BreedsListResponse.java" timestamp="1526059078536">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/database/MtaStatusDbServiceSQLite.java" timestamp="1517435328288">
         <mark key="[" line="90" column="57" />
         <mark key="]" line="90" column="79" />
@@ -456,9 +457,6 @@
         <mark key="]" line="47" column="82" />
         <mark key="^" line="47" column="82" />
         <mark key="." line="47" column="82" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1526058011166">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/MainActivity.java" timestamp="1517439672574">
         <mark key="[" line="33" column="61" />
