@@ -116,6 +116,12 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/lessons/separation-of-concerns/app/src/main/java/nyc/c4q/doggos/data/MyDoggoManager.java" timestamp="1526132116260">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/lessons/separation-of-concerns/app/src/main/java/nyc/c4q/doggos/BreedsListResponse.java" timestamp="1526054619615">
         <mark key="[" line="17" column="34" />
         <mark key="]" line="17" column="33" />
@@ -249,6 +255,11 @@
         <mark key="^" line="24" column="81" />
         <mark key="." line="24" column="81" />
       </file>
+      <file name="$USER_HOME$/Documents/lessons/separation-of-concerns/app/src/main/java/nyc/c4q/doggos/util/ConnectivityCheck.java" timestamp="1526132631333">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/build.gradle" timestamp="1517514133965">
         <mark key="[" line="27" column="54" />
         <mark key="]" line="28" column="61" />
@@ -327,6 +338,10 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/lessons/separation-of-concerns/app/src/main/java/nyc/c4q/doggos/breeds_list/BreedsListResponse.java" timestamp="1526059078536">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/database/MtaStatusDbServiceSQLite.java" timestamp="1517435328288">
         <mark key="[" line="90" column="57" />
         <mark key="]" line="90" column="79" />
@@ -386,6 +401,10 @@
         <mark key="]" line="26" column="36" />
         <mark key="." line="26" column="36" />
         <mark key="^" line="26" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/lessons/separation-of-concerns/app/src/main/java/nyc/c4q/doggos/ui/BreedsActivity.java" timestamp="1526132456184">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="91" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/mid-unit-5-practical-assessment/app/src/main/java/nyc/c4q/mid_unit_5_practical_assessment/ui/list/UserListFragment.java" timestamp="1516748855784">
         <mark key="[" line="178" column="46" />
@@ -504,13 +523,18 @@
         <mark key="^" line="55" column="15" />
         <mark key="." line="72" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/lessons/separation-of-concerns/app/src/main/java/nyc/c4q/doggos/data/DoggoManager.java" timestamp="1526132022066">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/model/user/User.java" timestamp="1516309735765">
         <mark key="[" line="3" column="50" />
         <mark key="]" line="3" column="51" />
         <mark key="^" line="3" column="51" />
         <mark key="." line="3" column="51" />
       </file>
-      <file name="/fragment.java" timestamp="1526127008509">
+      <file name="/fragment.java" timestamp="1526132396387">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="5" />
@@ -538,43 +562,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>saveBreedNames</text>
+        <text>Context</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBTYXZlIGxpc3Qgb2YgbmFtZXMgdG8gZGF0YWJhc2UKICAgICAgICAgICAgICAgICAgICBkb2dnb0RiSGVscGVyLnNhdmVCcmVlZE5hbWVzKGJyZWVkTmFtZXMpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBjb25uZWN0ZWRUb0ludGVybmV0KCkgewogICAgICAgIENvbm5lY3Rpdml0eU1hbmFnZXIgY29ubmVjdGl2aXR5TWFuYWdlciA9CiAgICAgICAgICAgICAgICAoQ29ubmVjdGl2aXR5TWFuYWdlcikgZ2V0U3lzdGVtU2VydmljZShDb250ZXh0LkNPTk5FQ1RJVklUWV9TRVJWSUNFKTsKCiAgICAgICAgTmV0d29ya0luZm8gYWN0aXZlTmV0d29yayA9IGNvbm5lY3Rpdml0eU1hbmFnZXIuZ2V0QWN0aXZlTmV0d29ya0luZm8oKTsKCiAgICAgICAgcmV0dXJuIGFjdGl2ZU5ldHdvcmsgIT0gbnVsbCAmJiBhY3RpdmVOZXR3b3JrLmlzQ29ubmVjdGVkT3JDb25uZWN0aW5nKCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChEb2dnb3NBY3Rpdml0eS50aGlzLCBSLnN0cmluZy5lcnJvcl9tc2dfbm9fZG9nZ29zLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIENvbm5lY3Rpdml0eUNoZWNrIGluc3RhbmNlOwogICAgcHJpdmF0ZSBDb250ZXh0IGNvbnRleHQ7CiAgICAKICAgIHB1YmxpYyBzdGF0aWMgQ29ubmVjdGl2aXR5Q2hlY2sgZ2V0SW5zdGFuY2UoKSB7CiAgICAgICAgCiAgICB9CiAgICAKICAgIHByaXZhdGUgQ29ubmVjdGl2aXR5Q2hlY2soQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gSWYgTk9UIGNvbm5lY3RlZCB0byBpbnRlcm5ldCwgdHJ5IGRhdGFiYXNlCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBTZWUgaWYgZGF0YWJhc2UgaXMgcG9wdWxhdGVkCiAgICAgICAgICAgICAgICAgICAgTGlzdDxTdHJpbmc+IGJyZWVkTmFtZXMgPSBkYkhlbHBlci5nZXRCcmVlZE5hbWVzKCk7CgogICAgICAgICAgICAgICAgICAgIGlmICghYnJlZWROYW1lcy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWRhcHRlci5yZWZyZXNoQnJlZWRMaXN0KGJyZWVkTmFtZXMpOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KEJyZWVkc0FjdGl2aXR5LnRoaXMsIFIuc3RyaW5nLmVycm9yX21zZ19ub19kb2dnb3MsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">SW50ZXJuZXRDb25uZWN0aW9uQ2hlY2sK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBEb2dnb0RiSGVscGVyIGRiSGVscGVyID0gRG9nZ29EYkhlbHBlci5nZXRJbnN0YW5jZSh0aGlzKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gSWYgc28sIHVwZGF0ZSByZWN5Y2xlciB2aWV3IHdpdGggdGhvc2UgbmFtZQo=</text>
+        <text encoding="base64">ICAgIGludGVyZmFjZSBEb2dnb0RhdGFDYWxsYmFjayB7CiAgICAgICAgdm9pZCBvblN1Y2Nlc3MoKQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
