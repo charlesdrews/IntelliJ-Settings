@@ -203,6 +203,12 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Synchronize selected files">
+        <Item>
+          <IdeaActionID>SynchronizeCurrentFile</IdeaActionID>
+          <Description>Synchronize selected files</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Terminal">
         <Item>
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
