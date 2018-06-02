@@ -211,6 +211,12 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Sync Project with Gradle Files">
+        <Item>
+          <IdeaActionID>Android.SyncProject</IdeaActionID>
+          <Description>Sync Project with Gradle Files</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Synchronize">
         <Item>
           <IdeaActionID>Synchronize</IdeaActionID>
