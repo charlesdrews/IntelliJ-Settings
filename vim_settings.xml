@@ -52,10 +52,11 @@
         <mark key="." line="90" column="90" />
         <mark key="^" line="90" column="90" />
       </file>
-      <file name="$USER_HOME$/Documents/assessments/final/access_code_comprehensive_exam_retake/app/src/main/res/layout/activity_main.xml" timestamp="1527976596616">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Documents/assessments/final/access_code_comprehensive_exam_retake/app/src/main/res/layout/activity_main.xml" timestamp="1527977482246">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="7" />
+        <mark key="." line="26" column="7" />
+        <mark key="^" line="26" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/res/layout/mta_status_rv_entry.xml" timestamp="1517527934440">
         <mark key="[" line="33" column="0" />
@@ -346,11 +347,11 @@
         <mark key="." line="28" column="61" />
         <mark key="^" line="28" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/assessments/final/access_code_comprehensive_exam_retake/app/src/main/res/values/dimens.xml" timestamp="1527976684613">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="2" column="39" />
-        <mark key="." line="2" column="39" />
-        <mark key="^" line="2" column="39" />
+      <file name="$USER_HOME$/Documents/assessments/final/access_code_comprehensive_exam_retake/app/src/main/res/values/dimens.xml" timestamp="1527976909573">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="2" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/assessments/final/access_code_comprehensive_exam_retake/app/src/main/java/nyc/c4q/accesscodecomprehensiveexamretake/CategoryModel.java" timestamp="1526318482917">
         <mark key="[" line="1" column="0" />
@@ -632,7 +633,7 @@
         <mark key="^" line="47" column="82" />
         <mark key="." line="47" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527976625227">
+      <file name="/Dummy.txt" timestamp="1527977519051">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -741,44 +742,44 @@
       <jump line="0" column="6" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxkaW1lbiBuYW1lPSJkZWZhdWx0X21hcmdpbiI+OGRwPC9kaW1lbj4K</text>
+      <register name="&quot;" type="4">
+        <text>textView_cardsRemaining</text>
       </register>
       <register name="-" type="4">
-        <text>button_newDeck</text>
+        <text>textView_cardsRemaining</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaW1lbiBuYW1lPSJkZWZhdWx0X21hcmdpbiI+OGRwPC9kaW1lbj4K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRTaXplPSJAZGltZW4vZGVmYXVsdF90ZXh0X3NpemUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQCtpZC90ZXh0Vmlld19jYXJkc1JlbWFpbmluZyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4K</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQCtpZC90ZXh0Vmlld19jYXJkc1JlbWFpbmluZyIgLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmVtcz0iMTAiCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IiAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvY2FyZHNfcmVtYWluaW5nIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvYnV0dG9uX25ld19kZWNrIgo=</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdGV4dFZpZXdfcmVtYWluaW5nIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmVtcz0iMTAiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvY2FyZHNfcmVtYWluaW5nIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxCdXR0b24KICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J1dHRvbl9uZXdEZWNrIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvYnV0dG9uX25ld19kZWNrIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdGV4dFZpZXdfcmVtYWluaW5nIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
