@@ -59,11 +59,11 @@
         <mark key="." line="90" column="90" />
         <mark key="^" line="90" column="90" />
       </file>
-      <file name="$USER_HOME$/Documents/assessments/final/access_code_comprehensive_exam_retake/app/src/main/res/layout/activity_main.xml" timestamp="1527986079763">
-        <mark key="[" line="36" column="35" />
-        <mark key="]" line="22" column="25" />
-        <mark key="^" line="22" column="25" />
-        <mark key="." line="22" column="25" />
+      <file name="$USER_HOME$/Documents/assessments/final/access_code_comprehensive_exam_retake/app/src/main/res/layout/activity_main.xml" timestamp="1527986636821">
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="47" />
+        <mark key="^" line="6" column="47" />
+        <mark key="." line="6" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/res/layout/mta_status_rv_entry.xml" timestamp="1517527934440">
         <mark key="[" line="33" column="0" />
@@ -124,10 +124,11 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/assessments/final/access_code_comprehensive_exam_retake/app/src/main/res/values/colors.xml" timestamp="1527986018368">
+      <file name="$USER_HOME$/Documents/assessments/final/access_code_comprehensive_exam_retake/app/src/main/res/values/colors.xml" timestamp="1527986615213">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/assessments/final/access_code_comprehensive_exam_retake/app/src/main/res/values/styles.xml" timestamp="1527986101054">
         <mark key="[" line="7" column="40" />
@@ -780,10 +781,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>accesscodecomprehensiveexamretake</text>
+        <text>primaryColor</text>
       </register>
       <register name="-" type="4">
-        <text>accesscodecomprehensiveexamretake</text>
+        <text>primaryColor</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
@@ -792,31 +793,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHR2Q2FyZHNSZW1haW5pbmcuc2V0VGV4dChTdHJpbmcuZm9ybWF0KGdldFN0cmluZyhSLnN0cmluZy5jYXJkc19yZW1haW5pbmcpLCBudW1DYXJkc1JlbWFpbmluZykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJwcmltYXJ5Q29sb3IiPiM2NmJiNmE8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9InByaW1hcnlMaWdodENvbG9yIj4jOThlZTk5PC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJwcmltYXJ5RGFya0NvbG9yIj4jMzM4YTNlPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJzZWNvbmRhcnlDb2xvciI+I2ZmYTcyNjwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0ic2Vjb25kYXJ5TGlnaHRDb2xvciI+I2ZmZDk1YjwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0ic2Vjb25kYXJ5RGFya0NvbG9yIj4jYzc3ODAwPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJwcmltYXJ5VGV4dENvbG9yIj4jMDAwMDAwPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJzZWNvbmRhcnlUZXh0Q29sb3IiPiMwMDAwMDA8L2NvbG9yPgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHJlc291cmNlcz4KICAgIDxjb2xvciBuYW1lPSJjb2xvclByaW1hcnkiPiMzRjUxQjU8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yUHJpbWFyeURhcmsiPiMzMDNGOUY8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yQWNjZW50Ij4jRkY0MDgxPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJiYWNrZ3JvdW5kIj4jN2NiMzQyPC9jb2xvcj4KPC9yZXNvdXJjZXM+Cg==</text>
+        <text encoding="base64">PHJlc291cmNlcz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9yZXNvdXJjZXM+Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjbG9zZUtleWJvYXJkKCk7Cg==</text>
+        <text encoding="base64">PHJlc291cmNlcz4KICAgIDxjb2xvciBuYW1lPSJjb2xvclByaW1hcnkiPiMzRjUxQjU8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yUHJpbWFyeURhcmsiPiMzMDNGOUY8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yQWNjZW50Ij4jRkY0MDgxPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJiYWNrZ3JvdW5kIj4jN2NiMzQyPC9jb2xvcj4KPC9yZXNvdXJjZXM+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VWaWV3LnNldENvbnRlbnREZXNjcmlwdGlvbihjYXJkLmdldFZhbHVlKCkgKyAiIG9mICIgKyBjYXJkLmdldFN1aXQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbG9zZUtleWJvYXJkKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6c2NhbGVUeXBlPSJjZW50ZXJJbnNpZCIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
