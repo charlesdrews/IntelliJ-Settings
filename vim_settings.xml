@@ -76,6 +76,7 @@
         <mark key="^" line="18" column="48" />
         <mark key="." line="18" column="48" />
       </file>
+      <file name="$USER_HOME$/Downloads/FinalApp/app/src/main/java/com/nyc/c4q/finalassessment/viewholder/CardsViewHolder.java" timestamp="1528133814496" />
       <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/android/MtaStatusRvAdapter.java" timestamp="1517525452151">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="4" />
@@ -105,6 +106,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/FinalApp/app/src/main/java/com/nyc/c4q/finalassessment/MainActivity.java" timestamp="1528133659300">
+        <mark key="[" line="96" column="40" />
+        <mark key="]" line="96" column="56" />
+        <mark key="^" line="96" column="56" />
+        <mark key="." line="96" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/lessons/separation-of-concerns/app/src/main/java/nyc/c4q/doggos/breeds_list/DogApiEndpoints.java" timestamp="1526059265843">
         <mark key="[" line="17" column="55" />
@@ -479,6 +486,7 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
+      <file name="$USER_HOME$/Downloads/FinalApp/app/src/main/res/layout/cards_itemview.xml" timestamp="1528133712530" />
       <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/database/MtaStatusDbServiceSQLite.java" timestamp="1517435328288">
         <mark key="[" line="90" column="57" />
         <mark key="]" line="90" column="79" />
@@ -782,10 +790,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>primaryColor</text>
+        <text>deck</text>
       </register>
       <register name="-" type="4">
-        <text>primaryColor</text>
+        <text>deck</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
