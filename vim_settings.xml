@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1528328584729">
+      <file name="/a.dummy" timestamp="1528331994188">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/res/values/dimens.xml" timestamp="1516396799488">
@@ -60,6 +60,12 @@
         <mark key="]" line="18" column="48" />
         <mark key="^" line="18" column="48" />
         <mark key="." line="18" column="48" />
+      </file>
+      <file name="$USER_HOME$/Downloads/android/DogsApp/app/src/main/res/layout/activity_dogs.xml" timestamp="1528332194610">
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="16" column="37" />
+        <mark key="^" line="16" column="37" />
+        <mark key="." line="16" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/android/MtaStatusRvAdapter.java" timestamp="1517525452151">
         <mark key="[" line="24" column="4" />
@@ -120,6 +126,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/android/DogsApp/app/src/main/java/nyc/c4q/dogsapp/data/DogApiResponse.java" timestamp="1528333149667">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="5" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/assessments/final/access_code_comprehensive_exam_retake/app/src/main/res/values/styles.xml" timestamp="1527986101054">
         <mark key="[" line="7" column="40" />
@@ -293,6 +305,12 @@
         <mark key="]" line="35" column="50" />
         <mark key="^" line="35" column="50" />
         <mark key="." line="35" column="50" />
+      </file>
+      <file name="$USER_HOME$/Downloads/android/DogsApp/app/src/main/res/layout/dog_item_view.xml" timestamp="1528332643353">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+        <mark key="^" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/ui/list/UserViewHolder.java" timestamp="1516744584101">
         <mark key="[" line="10" column="3" />
@@ -649,6 +667,10 @@
         <mark key="^" line="47" column="82" />
         <mark key="." line="47" column="82" />
       </file>
+      <file name="/Dummy.txt" timestamp="1528332262387">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/android/DogsApp/app/src/main/AndroidManifest.xml" timestamp="1528330489349">
         <mark key="[" line="20" column="48" />
         <mark key="]" line="20" column="49" />
@@ -727,7 +749,7 @@
         <mark key="^" line="15" column="94" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1528330387331">
+      <file name="/fragment.java" timestamp="1528333110440">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="5" />
@@ -759,11 +781,11 @@
       <jump line="30" column="11" filename="$USER_HOME$/Downloads/android/DogsApp/app/src/main/java/nyc/c4q/dogsapp/LoginActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>match_parent</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PjwvYWN0aXZpdHk+</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
@@ -772,31 +794,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHR2Q2FyZHNSZW1haW5pbmcuc2V0VGV4dChTdHJpbmcuZm9ybWF0KGdldFN0cmluZyhSLnN0cmluZy5jYXJkc19yZW1haW5pbmcpLCBudW1DYXJkc1JlbWFpbmluZykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KExvZ2luQWN0aXZpdHkudGhpcywgQnJlZWRzQWN0aXZpdHkuY2xhc3MpOwovLyAgICAgICAgICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShpbnRlbnQpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5KG5ldyBJbnRlbnQoTG9naW5BY3Rpdml0eS50aGlzLCBCcmVlZHNBY3Rpdml0eS5jbGFzcykpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShuZXcgSW50ZW50KCkpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">PC9JbWFnZVZpZXc+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KExvZ2luQWN0aXZpdHkudGhpcywgQnJlZWRzQWN0aXZpdHkuY2xhc3MpOwovLyAgICAgICAgICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShpbnRlbnQpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5KG5ldyBJbnRlbnQoTG9naW5BY3Rpdml0eS50aGlzLCBCcmVlZHNBY3Rpdml0eS5jbGFzcykpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KCk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZ0luZGV4T3V0T2ZCb3VuZHNFeGNlcHRpb25wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShuZXcgSW50ZW50KCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IiAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
