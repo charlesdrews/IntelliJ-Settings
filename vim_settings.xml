@@ -30,12 +30,12 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Downloads/android/DogsApp/app/src/main/java/nyc/c4q/dogsapp/LoginActivity.java" timestamp="1528330337394">
+      <file name="$USER_HOME$/Downloads/android/DogsApp/app/src/main/java/nyc/c4q/dogsapp/LoginActivity.java" timestamp="1528331113425">
         <mark key="'" line="40" column="59" />
-        <mark key="[" line="48" column="37" />
-        <mark key="]" line="50" column="52" />
-        <mark key="^" line="50" column="52" />
-        <mark key="." line="50" column="52" />
+        <mark key="[" line="51" column="42" />
+        <mark key="]" line="53" column="84" />
+        <mark key="^" line="53" column="84" />
+        <mark key="." line="53" column="84" />
       </file>
       <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/network/SimpleMtaStatusNetworkSvc.java" timestamp="1524761610097">
         <mark key="[" line="63" column="9" />
@@ -133,6 +133,7 @@
         <mark key="^" line="5" column="65" />
         <mark key="." line="5" column="65" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Context.java" timestamp="1528330802533" />
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/db/UserDbService.java" timestamp="1516391945173">
         <mark key="[" line="52" column="49" />
         <mark key="]" line="52" column="47" />
@@ -317,6 +318,7 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-compat/27.1.1/fe233277b6eae25ce5b2afab6daf55d73c86f0b9/support-compat-27.1.1-sources.jar!/android/support/v4/app/SupportActivity.java" timestamp="1528330765800" />
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/data/UserProviderLocalFirstThenRemote.java" timestamp="1516317368098">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -647,9 +649,11 @@
         <mark key="^" line="47" column="82" />
         <mark key="." line="47" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527986123262">
-        <mark key="'" line="0" column="6" />
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Downloads/android/DogsApp/app/src/main/AndroidManifest.xml" timestamp="1528330489349">
+        <mark key="[" line="20" column="48" />
+        <mark key="]" line="20" column="49" />
+        <mark key="^" line="20" column="49" />
+        <mark key="." line="20" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/MainActivity.java" timestamp="1517439672574">
         <mark key="[" line="33" column="61" />
@@ -723,7 +727,7 @@
         <mark key="^" line="15" column="94" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1527979092139">
+      <file name="/fragment.java" timestamp="1528330387331">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="5" />
@@ -755,10 +759,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>commit</text>
+        <text encoding="base64">PjwvYWN0aXZpdHk+</text>
       </register>
       <register name="-" type="4">
-        <text>commit</text>
+        <text encoding="base64">PjwvYWN0aXZpdHk+</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
