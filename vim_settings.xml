@@ -127,11 +127,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/android/DogsApp/app/src/main/java/nyc/c4q/dogsapp/data/DogApiResponse.java" timestamp="1528333149667">
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="5" column="25" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="5" column="25" />
+      <file name="$USER_HOME$/Downloads/android/DogsApp/app/src/main/java/nyc/c4q/dogsapp/data/DogApiResponse.java" timestamp="1528333419878">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="13" column="30" />
+        <mark key="." line="13" column="30" />
+        <mark key="^" line="13" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/assessments/final/access_code_comprehensive_exam_retake/app/src/main/res/values/styles.xml" timestamp="1527986101054">
         <mark key="[" line="7" column="40" />
@@ -243,6 +243,12 @@
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="34" />
       </file>
+      <file name="$USER_HOME$/Downloads/android/DogsApp/app/src/main/java/nyc/c4q/dogsapp/DogsActivity.java" timestamp="1528333470511">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="14" column="68" />
+        <mark key="^" line="14" column="68" />
+        <mark key="." line="14" column="68" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/model/user/Location.java" timestamp="1516309761983">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="98" />
@@ -349,6 +355,12 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
+      <file name="$USER_HOME$/Downloads/android/DogsApp/app/src/main/java/nyc/c4q/dogsapp/presentation/DogsActivity.java" timestamp="1528335238698">
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="21" column="31" />
+        <mark key="^" line="21" column="31" />
+        <mark key="." line="21" column="31" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/model/remote/pojo/User.java" timestamp="1516315169474">
         <mark key="[" line="0" column="48" />
         <mark key="]" line="0" column="54" />
@@ -385,6 +397,12 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/Downloads/android/DogsApp/app/src/main/java/nyc/c4q/dogsapp/data/DogApiService.java" timestamp="1528335425642">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="51" />
+        <mark key="^" line="8" column="51" />
+        <mark key="." line="8" column="51" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/mid-unit-5-practical-assessment/app/src/main/java/nyc/c4q/mid_unit_5_practical_assessment/services/UserServiceDbFirstThenNetwork.java" timestamp="1516748611712">
         <mark key="[" line="85" column="20" />
         <mark key="]" line="85" column="36" />
@@ -408,6 +426,12 @@
         <mark key="]" line="8" column="33" />
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
+      </file>
+      <file name="$USER_HOME$/Downloads/android/DogsApp/app/src/main/java/nyc/c4q/dogsapp/presentation/DogsRvAdapter.java" timestamp="1528335038793">
+        <mark key="[" line="45" column="8" />
+        <mark key="]" line="45" column="8" />
+        <mark key="." line="45" column="8" />
+        <mark key="^" line="28" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/res/layout/user_list_entry.xml" timestamp="1516724262587">
         <mark key="[" line="3" column="26" />
@@ -749,7 +773,7 @@
         <mark key="^" line="15" column="94" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1528333110440">
+      <file name="/fragment.java" timestamp="1528335324056">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="5" />
@@ -782,10 +806,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>match_parent</text>
+        <text>class</text>
       </register>
       <register name="-" type="4">
-        <text>match_parent</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
@@ -797,28 +821,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC9JbWFnZVZpZXc+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGljYXNzby53aXRoKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KExvZ2luQWN0aXZpdHkudGhpcywgQnJlZWRzQWN0aXZpdHkuY2xhc3MpOwovLyAgICAgICAgICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShpbnRlbnQpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5KG5ldyBJbnRlbnQoTG9naW5BY3Rpdml0eS50aGlzLCBCcmVlZHNBY3Rpdml0eS5jbGFzcykpOwo=</text>
+        <text encoding="base64">PC9JbWFnZVZpZXc+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShuZXcgSW50ZW50KCkpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KExvZ2luQWN0aXZpdHkudGhpcywgQnJlZWRzQWN0aXZpdHkuY2xhc3MpOwovLyAgICAgICAgICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShpbnRlbnQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
