@@ -30,11 +30,12 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Downloads/android/DogsApp/app/src/main/java/nyc/c4q/dogsapp/LoginActivity.java" timestamp="1528329327455">
-        <mark key="[" line="35" column="104" />
-        <mark key="]" line="35" column="81" />
-        <mark key="^" line="35" column="81" />
-        <mark key="." line="35" column="81" />
+      <file name="$USER_HOME$/Downloads/android/DogsApp/app/src/main/java/nyc/c4q/dogsapp/LoginActivity.java" timestamp="1528330337394">
+        <mark key="'" line="40" column="59" />
+        <mark key="[" line="48" column="37" />
+        <mark key="]" line="50" column="52" />
+        <mark key="^" line="50" column="52" />
+        <mark key="." line="50" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/network/SimpleMtaStatusNetworkSvc.java" timestamp="1524761610097">
         <mark key="[" line="63" column="9" />
@@ -750,13 +751,14 @@
       <jump line="19" column="0" filename="$USER_HOME$/Documents/lessons/separation-of-concerns/app/src/main/java/nyc/c4q/doggos/ui/breeds/BreedsViewModel.java" />
       <jump line="0" column="6" filename="/Dummy.txt" />
       <jump line="49" column="11" filename="$USER_HOME$/Documents/assessments/final/access_code_comprehensive_exam_retake/app/src/main/java/nyc/c4q/accesscodecomprehensiveexamretake/presentation/CardsRvAdapter.java" />
+      <jump line="39" column="59" filename="$USER_HOME$/Downloads/android/DogsApp/app/src/main/java/nyc/c4q/dogsapp/LoginActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getSystemService</text>
+        <text>commit</text>
       </register>
       <register name="-" type="4">
-        <text>getSystemService</text>
+        <text>commit</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
