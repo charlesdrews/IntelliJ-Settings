@@ -9,9 +9,6 @@
         <mark key="^" line="12" column="90" />
         <mark key="." line="12" column="90" />
       </file>
-      <file name="/a.dummy" timestamp="1528331994188">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/res/values/dimens.xml" timestamp="1516396799488">
         <mark key="[" line="5" column="37" />
         <mark key="]" line="5" column="38" />
@@ -119,6 +116,11 @@
         <mark key="]" line="10" column="31" />
         <mark key="^" line="10" column="31" />
         <mark key="." line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/Downloads/AndroidPractical2/app/src/main/java/controller/CardAdapter.java" timestamp="1528739114460">
+        <mark key="[" line="46" column="28" />
+        <mark key="]" line="46" column="28" />
+        <mark key="." line="46" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/assessments/final/access_code_comprehensive_exam_retake/app/src/main/java/nyc/c4q/accesscodecomprehensiveexamretake/Card.java" timestamp="1526322495433">
         <mark key="[" line="3" column="45" />
@@ -265,9 +267,6 @@
         <mark key="]" line="3" column="98" />
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/res/drawable/ic_refresh_black_24dp.xml" timestamp="1516734566075">
-        <mark key="[" line="6" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/network/SimpleMtaStatusNetworkService.java" timestamp="1517327777092">
         <mark key="[" line="26" column="0" />
@@ -479,6 +478,11 @@
         <mark key="." line="61" column="51" />
         <mark key="^" line="61" column="51" />
       </file>
+      <file name="$USER_HOME$/Downloads/FinalProjectApp/app/src/main/java/android/com/androidappfinal/adapter/CustomAdapter.java" timestamp="1528314755656">
+        <mark key="[" line="58" column="52" />
+        <mark key="]" line="58" column="52" />
+        <mark key="." line="58" column="52" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/UserService.java" timestamp="1516391822220">
         <mark key="[" line="28" column="7" />
         <mark key="]" line="29" column="89" />
@@ -684,6 +688,12 @@
         <mark key="^" line="34" column="17" />
         <mark key="." line="34" column="17" />
       </file>
+      <file name="$USER_HOME$/Downloads/AndroidPractical2/app/src/main/java/nyc/c4q/androidretake/MainActivity.java" timestamp="1528739471987">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="123" column="27" />
+        <mark key="." line="123" column="27" />
+        <mark key="^" line="123" column="27" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/ui/MainActivity.java" timestamp="1516743960320">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -819,10 +829,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>CardDraw</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>CardDraw</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
