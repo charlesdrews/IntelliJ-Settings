@@ -145,7 +145,6 @@
         <mark key="^" line="5" column="65" />
         <mark key="." line="5" column="65" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Context.java" timestamp="1528330802533" />
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/db/UserDbService.java" timestamp="1516391945173">
         <mark key="[" line="52" column="49" />
         <mark key="]" line="52" column="47" />
@@ -170,6 +169,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="9" column="30" />
       </file>
+      <file name="$USER_HOME$/Downloads/Chelsi/app/src/main/java/com/example/chelsi/finalretake/Recycler/CardViewHolder.java" timestamp="1528731337726" />
       <file name="$USER_HOME$/Documents/lessons/separation-of-concerns/app/src/main/AndroidManifest.xml" timestamp="1526056658922">
         <mark key="[" line="4" column="65" />
         <mark key="]" line="5" column="3" />
@@ -212,7 +212,7 @@
         <mark key="^" line="2" column="37" />
         <mark key="." line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/Downloads/FinalProjectApp/app/src/main/java/android/com/androidappfinal/activity/MainActivity.java" timestamp="1528314207040" />
+      <file name="$USER_HOME$/Downloads/Chelsi/app/src/main/res/layout/activity_main.xml" timestamp="1528731227553" />
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/UserRepository.java" timestamp="1516310062439">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="9" column="2" />
@@ -342,7 +342,6 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-compat/27.1.1/fe233277b6eae25ce5b2afab6daf55d73c86f0b9/support-compat-27.1.1-sources.jar!/android/support/v4/app/SupportActivity.java" timestamp="1528330765800" />
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/data/UserProviderLocalFirstThenRemote.java" timestamp="1516317368098">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -463,17 +462,11 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="40" column="51" />
       </file>
-      <file name="$USER_HOME$/Downloads/FinalProjectApp/app/src/main/res/values/strings.xml" timestamp="1528315275893" />
       <file name="$USER_HOME$/Documents/lessons/separation-of-concerns/app/src/main/java/nyc/c4q/doggos/breeds_list/BreedsActivity.java" timestamp="1526062798637">
         <mark key="[" line="61" column="24" />
         <mark key="]" line="61" column="51" />
         <mark key="." line="61" column="51" />
         <mark key="^" line="61" column="51" />
-      </file>
-      <file name="$USER_HOME$/Downloads/FinalProjectApp/app/src/main/java/android/com/androidappfinal/adapter/CustomAdapter.java" timestamp="1528314755656">
-        <mark key="[" line="58" column="52" />
-        <mark key="]" line="58" column="52" />
-        <mark key="." line="58" column="52" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/UserService.java" timestamp="1516391822220">
         <mark key="[" line="28" column="7" />
@@ -743,7 +736,6 @@
         <mark key="." line="121" column="42" />
         <mark key="^" line="121" column="42" />
       </file>
-      <file name="$USER_HOME$/Downloads/android/DogsApp/app/build.gradle" timestamp="1528336362578" />
       <file name="$USER_HOME$/Downloads/FinalProjectApp/app/src/main/res/layout/activity_main.xml" timestamp="1528314495751">
         <mark key="[" line="61" column="43" />
         <mark key="]" line="62" column="42" />
