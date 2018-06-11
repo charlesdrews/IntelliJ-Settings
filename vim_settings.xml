@@ -36,13 +36,6 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Downloads/android/DogsApp/app/src/main/java/nyc/c4q/dogsapp/LoginActivity.java" timestamp="1528331692743">
-        <mark key="'" line="33" column="11" />
-        <mark key="[" line="28" column="47" />
-        <mark key="]" line="30" column="44" />
-        <mark key="." line="30" column="44" />
-        <mark key="^" line="30" column="44" />
-      </file>
       <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/services/network/SimpleMtaStatusNetworkSvc.java" timestamp="1524761610097">
         <mark key="[" line="63" column="9" />
         <mark key="]" line="64" column="19" />
@@ -230,6 +223,12 @@
         <mark key="]" line="9" column="2" />
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Amy/app/src/main/java/backend/CardApiResponse.java" timestamp="1528738675266">
+        <mark key="[" line="43" column="30" />
+        <mark key="]" line="43" column="30" />
+        <mark key="." line="43" column="36" />
+        <mark key="^" line="14" column="75" />
       </file>
       <file name="$USER_HOME$/Downloads/android/DogsApp/app/src/main/res/layout/activity_login.xml" timestamp="1528328013734">
         <mark key="[" line="20" column="11" />
@@ -820,10 +819,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;count&quot;) int count);</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;count&quot;) int count);</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>COL_NAME</text>
