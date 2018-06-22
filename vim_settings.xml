@@ -112,6 +112,12 @@
         <mark key="^" line="17" column="55" />
         <mark key="." line="17" column="55" />
       </file>
+      <file name="$USER_HOME$/Downloads/DeckOfCards/app/src/main/res/layout/card_item.xml" timestamp="1529678291179">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/assessments/final/access_code_comprehensive_exam_retake/app/src/main/java/nyc/c4q/accesscodecomprehensiveexamretake/ShuffleResponse.java" timestamp="1526323442560">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="31" />
@@ -148,6 +154,7 @@
         <mark key="^" line="7" column="53" />
       </file>
       <file name="$USER_HOME$/Downloads/AndroidCards/app/src/main/res/layout/recyclerview_item.xml" timestamp="1529438347578" />
+      <file name="$USER_HOME$/Downloads/DeckOfCards/app/src/main/java/com/example/c4q/deckofcards/CardsActivity.java" timestamp="1529678058752" />
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/model/user/UserProvider.java" timestamp="1516310031400">
         <mark key="[" line="5" column="67" />
         <mark key="]" line="5" column="65" />
