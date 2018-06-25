@@ -82,6 +82,9 @@
         <mark key="." line="61" column="18" />
         <mark key="^" line="61" column="18" />
       </file>
+      <file name="$USER_HOME$/Downloads/Deck-Of-Cards/app/src/main/java/com/example/niemawidaha/deckofcards/MainActivity.java" timestamp="1529939147556">
+        <mark key="[" line="42" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/assessments/AC_Android_Unit_5_Final_Assessment/app/src/main/java/nyc/c4q/unit5finalassessment/android/MtaStatusRvAdapter.java" timestamp="1517525452151">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="4" />
@@ -136,16 +139,17 @@
         <mark key="^" line="10" column="31" />
         <mark key="." line="10" column="31" />
       </file>
+      <file name="$USER_HOME$/Downloads/Deck-Of-Cards/app/src/main/java/com/example/niemawidaha/deckofcards/controller/CardDeckAdapter.java" timestamp="1529939205425">
+        <mark key="[" line="61" column="36" />
+        <mark key="]" line="61" column="95" />
+        <mark key="^" line="61" column="95" />
+        <mark key="." line="61" column="95" />
+      </file>
       <file name="$USER_HOME$/Downloads/PracticalRetake/app/src/main/AndroidManifest.xml" timestamp="1529935848499">
         <mark key="[" line="4" column="65" />
         <mark key="]" line="5" column="3" />
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
-      </file>
-      <file name="$USER_HOME$/Downloads/AndroidPractical2/app/src/main/java/controller/CardAdapter.java" timestamp="1528739114460">
-        <mark key="[" line="46" column="28" />
-        <mark key="]" line="46" column="28" />
-        <mark key="." line="46" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/assessments/final/access_code_comprehensive_exam_retake/app/src/main/java/nyc/c4q/accesscodecomprehensiveexamretake/Card.java" timestamp="1526322495433">
         <mark key="[" line="3" column="45" />
@@ -347,6 +351,12 @@
         <mark key="." line="64" column="27" />
         <mark key="^" line="64" column="27" />
       </file>
+      <file name="$USER_HOME$/Downloads/Deck-Of-Cards/app/src/main/res/layout/activity_main.xml" timestamp="1529938992156">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="14" />
+        <mark key="^" line="76" column="14" />
+        <mark key="." line="76" column="14" />
+      </file>
       <file name="$USER_HOME$/Downloads/Deck-Of-Cards-Final/app/src/main/res/layout/cards_item_view.xml" timestamp="1529532854596" />
       <file name="$USER_HOME$/Documents/lessons/separation-of-concerns/app/src/main/java/nyc/c4q/doggos/ui/doggos/DoggosPresenter.java" timestamp="1526214788114">
         <mark key="[" line="34" column="94" />
@@ -521,11 +531,6 @@
         <mark key="]" line="61" column="51" />
         <mark key="." line="61" column="51" />
         <mark key="^" line="61" column="51" />
-      </file>
-      <file name="$USER_HOME$/Downloads/FinalProjectApp/app/src/main/java/android/com/androidappfinal/adapter/CustomAdapter.java" timestamp="1528314755656">
-        <mark key="[" line="58" column="52" />
-        <mark key="]" line="58" column="52" />
-        <mark key="." line="58" column="52" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Unit5MidUnitPracticalAssessment/app/src/main/java/nyc/c4q/unit5mid_unitpracticalassessment/service/UserService.java" timestamp="1516391822220">
         <mark key="[" line="28" column="7" />
